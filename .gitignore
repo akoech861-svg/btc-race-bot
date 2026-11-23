@@ -1,0 +1,12 @@
+makefun-keypair.json
+btc-race-24h-20261123-0511-kit/
+*.log
+__pycache__/
+sim.py
+boot.py
+mc.py
+sweep.py
+dip.py
+cmp.py
+cmp2.py
+transcripts.tar.gz
